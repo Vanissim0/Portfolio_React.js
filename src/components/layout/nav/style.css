@@ -17,7 +17,7 @@
 .nav li:hover {
     color: #EBFE0C;
     border: solid 1px #EBFE0C;
-    transition: 0.4s;
+    transition: 0.2s;
 }
 
 .nav li:active {
