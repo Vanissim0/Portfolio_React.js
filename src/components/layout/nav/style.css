@@ -1,0 +1,28 @@
+.nav {
+    padding: 10px;
+}
+
+.nav li {
+    display: inline;
+    padding: 4px 10px;
+    margin: 10px;
+    font-size: 24px;
+    font-weight: 300;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #fff;
+    border: solid 1px #0C0527;
+}
+
+.nav li:hover {
+    color: #EBFE0C;
+    border: solid 1px #EBFE0C;
+    transition: 0.4s;
+}
+
+.nav li:active {
+    color: #0C0527;
+    border: solid 1px #F3FF63;
+    background-color: #F3FF63;
+    transition: 0.1s;
+}
