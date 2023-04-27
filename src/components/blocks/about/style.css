@@ -1,0 +1,7 @@
+.about-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #fff;
+    height: 700px;
+}

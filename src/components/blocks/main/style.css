@@ -1,11 +1,8 @@
 .main-block {
-    /* display: flex;
-    flex-direction: column; */
-    display: inline-block;
     justify-content: space-between;
     background-color: #0C0527;
     color: #fff;
-    /* background-image: url(../../../assets/Polygon.png); */
+    height: 700px;
 }
 
 .main-block h1 {
@@ -52,6 +49,7 @@
     from {
         stroke: #EBFE0C;
     }
+
     to {
         stroke: #6C18F6;
     }
