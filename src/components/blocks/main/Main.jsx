@@ -7,8 +7,11 @@ export default function Main() {
     <div className="main-block">
       <h1>Reshetar Ivan</h1>
 
-      <img src={imgMain} alt="Me" className="main-image" />
+      <div className="img__block">
+        <img src={imgMain} alt="Me" className="main-image" />
+      </div>
       <h3>frontend developer</h3>
+
       <svg
         width="70"
         height="417"
@@ -23,7 +26,6 @@ export default function Main() {
           stroke-width="2"
         />
       </svg>
-      
     </div>
   );
 }

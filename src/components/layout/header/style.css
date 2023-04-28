@@ -4,13 +4,13 @@
     top: 0px;
     height: 60px;
     background-color: #0C0527;
-    z-index: 5;
+    z-index: 1000;
     box-sizing: border-box;
 }
 
 .header-block {
     display: flex;
-    padding-left: 30px;
+    padding-left: 10px;
     padding-right: 10px;
     width: 1280px;
     margin: 0 auto;

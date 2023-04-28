@@ -1,7 +1,18 @@
-.about-block {
+.about__block {
+    padding-left: 60px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     color: #fff;
-    height: 700px;
+    height: 100px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+.about__text {
+    padding-top: 40px;
+    font-size: 26px;
+    line-height: 1.5;
 }

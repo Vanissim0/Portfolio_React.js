@@ -29,6 +29,7 @@ const skillsList = [
     // ),
     image: 'https://d29fhpw069ctt2.cloudfront.net/font/59898/preview/299db05c695766e5f0e1f2fdc16c062e.jpg'
   },
+  
 ];
 
 export default skillsList;

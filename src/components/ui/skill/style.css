@@ -1,3 +1,7 @@
 .skill {
     padding: 50px;
 }
+
+.skill p {
+    margin: 0 auto;
+}
