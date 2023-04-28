@@ -15,14 +15,14 @@
 }
 
 .nav li:hover {
-    color: #EBFE0C;
-    border: solid 1px #EBFE0C;
+    color: #FF451C;
+    border: solid 1px #FF451C;
     transition: 0.2s;
 }
 
 .nav li:active {
     color: #0C0527;
-    border: solid 1px #F3FF63;
-    background-color: #F3FF63;
+    border: solid 1px #E08A3B;
+    background-color: #E08A3B;
     transition: 0.1s;
 }

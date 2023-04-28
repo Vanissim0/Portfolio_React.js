@@ -1,4 +1,5 @@
 import React from "react";
+import './style.css'
 
 export default function Logo() {
   return (
@@ -9,6 +10,7 @@ export default function Logo() {
         viewBox="0 0 135 118"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
+        className="logo__svg"
       >
         <path
           d="M67.117 0.75L134.234 112.5L67.117 44L0 112.5L67.117 0.75Z"

@@ -1,0 +1,15 @@
+.logo__svg {
+    animation: animation-logo 3s infinite alternate;
+}
+
+@keyframes animation-logo {
+    from {
+        stroke: #EBFE0C;
+        fill: yellow;
+    }
+
+    to {
+        stroke: #6C18F6;
+        fill: blue;
+    }
+}

@@ -1,7 +1,6 @@
 import React from "react";
 import Skill from "../../ui/skill/Skill";
 import "./style.css";
-// import skillsList from "../../../mocks/skillsList";
 
 export default function SkillsList() {
   const skillsList = [
@@ -17,8 +16,7 @@ export default function SkillsList() {
     {
       id: 1,
       name: "CSS",
-      image:
-        "../../assets/html5.svg",
+      image: "../../assets/html5.svg",
     },
     {
       id: 2,
