@@ -1,18 +1,23 @@
-.skillsList { 
+.skillsList {
     display: flex;
     flex-direction: row;
-    padding: 50px;
+    padding-top: 80px;
+    padding-left: 30px;
     color: #fff;
 }
 
-.skills{
+.skills {
     display: flex;
     flex-direction: row;
-
 }
 
-.skill{
+.skill {
     display: flex;
     flex-direction: column;
     list-style-type: none;
+}
+
+.skill:hover {
+    filter: drop-shadow(2px 2px 1px rgba(108, 24, 246, 0.6));
+    transition: 0.2s ease-in-out;
 }

@@ -6,9 +6,9 @@
 }
 
 .main-block h1 {
-    padding-left: 60px;
+    padding-left: 40px;
     padding-top: 40px;
-    font-size: 96px;
+    font-size: 128px;
     text-transform: uppercase;
     z-index: 10;
 }
@@ -35,26 +35,26 @@
     font-size: 36px;
     font-weight: 300;
     position: relative;
-    left: 60px;
-    bottom: 400px;
+    left: 40px;
+    bottom: 1260px;
     border-bottom: dashed 2px #fff;
     z-index: 10;
 }
 
-.svg-left {
+.svg__left {
     position: relative;
-    left: 65px;
-    bottom: 800px;
+    left: 60px;
+    bottom: 1600px;
     z-index: 1;
-    animation: animation 3s infinite alternate;
+    animation: animation 5s infinite alternate;
 }
 
-.svg-right {
+.svg__bg {
     position: relative;
-    left: 165px;
-    bottom: 800px;
+    left: 650px;
+    bottom: 864px;
     z-index: 1;
-    animation: animation 3s infinite alternate;
+    animation: animation 5s infinite alternate;
 }
 
 @keyframes animation {

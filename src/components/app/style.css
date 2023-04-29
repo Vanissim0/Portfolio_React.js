@@ -1,14 +1,16 @@
 body {
-    overflow-x:hidden;
-    min-width: 100vh;
+  overflow-x: hidden;
+  min-width: 100vh;
 }
 
 body::-webkit-scrollbar {
-    width: 4px;              
-  }
-  body::-webkit-scrollbar-track {
-    background: #19103E;       
-  }
-  body::-webkit-scrollbar-thumb {
-    background-color: #FA5711;    
-  }
+  width: 4px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #19103E;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #FA5711;
+}
