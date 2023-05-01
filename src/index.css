@@ -21,13 +21,13 @@ code {
 }
 
 ::selection {
-  background: #FF0099;
+  background: #FF451C;
   color: #0C0527;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background: #FF0099;
+  background: #FF451C;
   color: #0C0527;
   text-shadow: none;
 }

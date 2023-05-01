@@ -9,6 +9,7 @@
 .skills {
     display: flex;
     flex-direction: row;
+    
 }
 
 .skill {
@@ -18,6 +19,8 @@
 }
 
 .skill:hover {
-    filter: drop-shadow(2px 2px 1px rgba(108, 24, 246, 0.6));
+    filter: drop-shadow(2px 2px 1px rgba(255, 69, 28, 0.6));
+    stroke: red;
+    fill: red;
     transition: 0.2s ease-in-out;
 }
